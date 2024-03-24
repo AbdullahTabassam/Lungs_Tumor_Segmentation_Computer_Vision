@@ -14,19 +14,19 @@ This project aims to develop an end-to-end solution for lung tumor detection usi
 
 ### Web Application
 
-![Demo_gif](https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/Demo.gif)
+![Demo_gif](https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/Demo.gif)
 
 #### Images
 
 <div>
-<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/static/images/000117.png" alt="Image" height="250" width="250">
-<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/static/images/000157.png" alt="Image" height="250" width="250">
-<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/static/images/000163.png" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/static/images/000117.png" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/static/images/000157.png" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/static/images/000163.png" alt="Image" height="250" width="250">
 </div>
 <div>
-<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/static/results/predicted_000117.png" alt="Image" height="250" width="250">
-<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/static/results/predicted_000157.png" alt="Image" height="250" width="250">
-<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/static/results/predicted_000163.png" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/static/results/predicted_000117.png" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/static/results/predicted_000157.png" alt="Image" height="250" width="250">
+<img src="https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/static/results/predicted_000163.png" alt="Image" height="250" width="250">
 </div>
 
 
@@ -34,7 +34,7 @@ This project aims to develop an end-to-end solution for lung tumor detection usi
 
 The model's effectiveness is demonstrated through the following results:
 
-![Results](https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/tree/master/results.png)
+![Results](https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/results.png)
 
 ## Usage
 
