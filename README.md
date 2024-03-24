@@ -34,7 +34,35 @@ This project aims to develop an end-to-end solution for lung tumor detection usi
 
 The model's effectiveness is demonstrated through the following results:
 
-![Results](https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation/blob/master/results.png)
+<table style="margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <th colspan="4" style="text-align: center;">Box</th>
+    <th style="border-left: 1px solid white;"></th>
+    <th colspan="4" style="text-align: center;">Mask</th>
+  </tr>
+  <tr>
+    <th style="text-align:center;">Precision</th>
+    <th style="text-align:center;">Recall</th>
+    <th style="text-align:center;">mAP50</th>
+    <th style="text-align:center;">mAP50-95</th>
+    <td style="border-left: 1px solid white;"></td>
+    <th style="text-align:center;">Precision</th>
+    <th style="text-align:center;">Recall</th>
+    <th style="text-align:center;">mAP50</th>
+    <th style="text-align:center;">mAP50-95</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">94.1%</td>
+    <td style="text-align:center;">94.4%</td>
+    <td style="text-align:center;">98.7%</td>
+    <td style="text-align:center;">86.4%</td>
+    <td style="border-left: 1px solid white;"></td>
+    <td style="text-align:center;">94.6%</td>
+    <td style="text-align:center;">97.1%</td>
+    <td style="text-align:center;">98.9%</td>
+    <td style="text-align:center;">81.9%</td>
+  </tr>
+</table>
 
 ## Usage
 
